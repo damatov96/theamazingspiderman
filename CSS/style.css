@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(179, 185, 236);
+    font-family: Verdana, Geneva, Tahoma, sans-serifs;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+header {
+    background-color: rgb(255, 0, 0);
+    padding: 15px;
+    color: blue;
+}
+button {
+    background-color: rgb(118, 148, 248);
+    width: 125px; height: 40px;
+    color: aliceblue;
+    padding: auto;
+    margin: 5px;
+    border-radius: 15px;
+
+}
+nav {
+    background-color: rgb(202, 19, 19);
+    margin: 30px;
+    border-radius: 55px;
+}
+
+article {
+    background-color: rgb(216, 69, 69);
+    border-radius: 20px;
+    padding: 0;
+    float: left;
+    width: 50%;
+    height: 250px;
+
+}
+aside {
+    background-color: rgb(94, 7, 7);
+    border-radius: 20px;
+    padding: 0;
+    width: 50%;
+    height: 250px;
+    float: left;
+}
+footer {
+    background-color: black;
+    border-radius: 15px;
+    width: 100%;
+    height: 75px;
+    padding: 5px;
+}
